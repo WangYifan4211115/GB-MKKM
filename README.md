@@ -1,2 +1,2 @@
-# run GB-MKKM.main
-# Published in IJCAI 2025
+run GB-MKKM.main
+Published in IJCAI 2025
