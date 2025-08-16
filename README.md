@@ -6,3 +6,10 @@ This repository provides the official implementation of our paper
 
 
 
+### Run the main program
+
+To run the main script, simply execute:
+
+GBSMKKM.m --dataset=MNIST 
+
+
