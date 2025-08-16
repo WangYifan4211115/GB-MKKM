@@ -14,6 +14,6 @@ GBSMKKM.m --dataset=JAFFE.
 
 
 ### main model
-![main model](images/flow.png)
+![main model](flow.png)
 
 
