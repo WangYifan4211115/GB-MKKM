@@ -10,6 +10,10 @@ This repository provides the official implementation of our paper
 
 To run the main script, simply execute:
 
-GBSMKKM.m --dataset=MNIST 
+GBSMKKM.m --dataset=JAFFE
+
+
+### main model
+![main model](images/flow.png)
 
 
